@@ -1,7 +1,9 @@
 Aim:
+
 To simulate and synthesis full adder using Xilinx ISE.
 
 Apparatus Required:
+
 Xilinx 14.7 Spartan6 FPGA
 
 Procedure:
